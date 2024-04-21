@@ -1,0 +1,7 @@
+name=Flappybalt
+author=TommusRhodus
+description=A clone of Flappybalt from https://haxeflixel.com/demos/Flappybalt/
+bundleID=com.tommusrhodus.flappybalt
+imagePath=SystemAssets
+version=0.1.0
+buildNumber=1
